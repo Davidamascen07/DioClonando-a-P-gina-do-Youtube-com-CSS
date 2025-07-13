@@ -28,4 +28,4 @@ Veja abaixo uma prévia do layout:
 ![Preview](layout/Video%20Actions.png)
 
 ---
-Desenvolvido por David Amasceno para a DIO.
+Desenvolvido por David Damasceno para a DIO.
