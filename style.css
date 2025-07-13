@@ -240,7 +240,7 @@ position: relative;
 .main-content {
     display: flex;
     gap: 24px;
-    margin-top: 84px;
+    margin-top: 28px;
     padding: 0 24px;
     max-width: 1440px;
     margin-left: auto;
@@ -260,7 +260,7 @@ position: relative;
     width: 952px;
     height: 536px;
     background-color: #000;
-    border-radius: 12px;
+    border-radius: px;
     overflow: hidden;
     position: relative;
     opacity: 1;
@@ -538,8 +538,7 @@ position: relative;
     flex-direction: column;
     align-items: flex-start;
     padding: 0px;
-    gap: 16px;
-    overflow-y: auto;
+    gap: 16px;    
     position: relative;
 }
 
